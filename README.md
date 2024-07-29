@@ -12,9 +12,8 @@
         <li>Student</li>
         <li>Brand Owner</li>
     </ul>
-   
+    <hr>
 </details>
-
 
 [Kıyafet Mağazamızı](https://burjuwa.com/)
 ziyaret etmeyi unutmayın
@@ -45,6 +44,37 @@ açıklanması gereken metin [^1]
 |deneme|1|
 |deneme|2|
 |tablonun uzun  olması durumu||
+
+<table>
+    <thead>
+        <tr>
+            <th>katagörü</th>
+            <th>ürün</th>
+            <th>fiyat</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="3">giyim</td>
+            <td>ayakkabı</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>mont</td>
+            <td>600</td>
+        </tr>
+        <tr>
+            <td>şapka</td>
+            <td>590</td>
+        </tr>
+        <tr>
+            <td rowspan="3">kitap</td>
+            <td>roman</td>
+            <td>600</td>
+        </tr>
+    </tbody>
+</table>
+
 
 > Alıntı
 
