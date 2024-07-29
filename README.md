@@ -4,6 +4,16 @@
 **bu bir kalın yazıdır**
 
 *bu ise italik bir yazı*
+<details>
+    <summary>
+        <b><i>Who Am I</i></b>
+    </summary>
+    <ul>
+        <li>Student</li>
+        <li>Brand Owner</li>
+    </ul>
+   
+</details>
 
 
 [Kıyafet Mağazamızı](https://burjuwa.com/)
